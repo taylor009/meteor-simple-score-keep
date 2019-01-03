@@ -23,10 +23,9 @@ application.
 
 ##### Cloning project 
 
-<ol>
-<li>(If) Meteor isn't installed [MeteorJS](https://www.meteor.com/) has intructions on the installation process on verious devices</li>
-<li>git clone repo</li>
-<li>cd into project directory</li>
-<li>run npm i to install project depenecies</li>
-<li>meteor run</li> 
-</ol>
+
+1. If Meteor isn't installed [MeteorJS](https://www.meteor.com/) has instructions on the installation process on various devices</li>
+1. git clone repo
+1. cd into project directory
+1. run npm i to install project dependencies
+1. meteor run
