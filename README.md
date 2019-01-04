@@ -23,7 +23,7 @@ application.
 
 ##### Visit Demo of Application Here:
 
-[Score Keep](http://meteor-score-keep-app.herokuapp.com)
+
 
 <br>
 <hr>
